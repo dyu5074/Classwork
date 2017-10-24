@@ -3,6 +3,7 @@ package arrays;
 public class Doubles {
 	public static void main (String [] args)
 	{
+		//test cases
 		String [] array = {"ham" , "cheese", "eggs"};
 		String [] c = doubled(array);
 		String a = "bar";
