@@ -1,4 +1,4 @@
-package Person;
+package school;
 
 public class Student extends Person {
 	private String [][] Classes;

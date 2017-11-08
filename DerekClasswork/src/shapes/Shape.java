@@ -1,4 +1,4 @@
-package Shape;
+package shapes;
 /**
  * @author Derek Yu
  * Created 10/16/2017

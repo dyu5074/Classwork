@@ -1,4 +1,7 @@
-package Shape;
+package shapes;
+
+import shapes.Shape;
+
 /**
  * @author Derek Yu
  * Created 10/16/2017

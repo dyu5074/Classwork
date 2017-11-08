@@ -1,4 +1,4 @@
-package Person;
+package school;
 
 public abstract class Person {
 	public abstract int calculateAge();

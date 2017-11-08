@@ -1,4 +1,4 @@
-package Shape;
+package shapes;
 /**
  * @author Derek Yu
  * Created 10/16/2017
@@ -6,6 +6,8 @@ package Shape;
  *
  */
 import java.util.Random;
+
+import shapes.Square;
 public class ShapeUtilities{
 	public static double sumPerimeter(Shape[] ShapeArr)
 	{

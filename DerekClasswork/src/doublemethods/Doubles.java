@@ -1,4 +1,4 @@
-package arrays;
+package doublemethods;
 
 public class Doubles {
 	public static void main (String [] args)
